@@ -1,6 +1,6 @@
 ### IntelliJ IDEA ###
 /.idea
-/HomeWork3.iml
+/.iml
 /out
 out/
 !**/src/main/**/out/
